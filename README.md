@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning how to fine tune my React.js skills.
+- 🌱 I’m currently working on fine tuning my React.js skills.
 - 🐮 I'm from the great State of Wyoming!
 - 🌄 When I am not programming, I enjoy watching movies, hammocking and dirtbiking.
 
@@ -48,8 +48,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
 </p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spencerlonghurst&theme=dark&show_icons=true" />
-  <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencerlonghurst&theme=dark&layout=compact" />
+<img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencerlonghurst&theme=dark&layout=compact" />
 
 
 
