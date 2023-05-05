@@ -1,5 +1,5 @@
-- 🌱 I’m currently working on learning swift and becoming a mobile ios developer.
-- 🐮 I'm from the great State of Wyoming!
+- 🌱 I am currently working on learning swift and becoming a mobile ios developer.
+- 🐮 I am from the great State of Wyoming!
 - 🌄 When I am not programming, I enjoy watching movies, hammocking and dirtbiking.
 
 <h3 align="left">Connect with me:</h3>
