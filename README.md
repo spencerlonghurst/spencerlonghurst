@@ -1,4 +1,4 @@
-- 🌱 I am currently working on learning swift and becoming a mobile ios developer.
+- 🌱 I am currently working on improving my JavaScript skills and becoming a better Web Developer.
 - 🐮 I am from the great State of Wyoming!
 - 🌄 When I am not programming, I enjoy watching movies, hammocking and dirtbiking.
 
